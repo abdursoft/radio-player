@@ -15,7 +15,7 @@
 
 
 /******************
-Any software developed by premium.abdursoft.com and any software provided to you in conjunction with providing the Service is protected by copyright law and international treaty provisions. You may not copy/redistribute the software or any portion of it.
+Any software developed by premium.abdursoft.com or abdursoft.com and any software provided to you in conjunction with providing the Service is protected by copyright law and international treaty provisions. You may not copy/redistribute the software or any portion of it.
 
 Otherwise premium.abdursoft.com will take action against you by the law of copyright.Stay safe and enjoy your radio streaming.
 ******************/

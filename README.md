@@ -1,9 +1,9 @@
 <img src="https://cdn.abdursoft.com/assets/radio/small.png" alt="abdursoft" />
 <h1 align="center">Premium Radio Player</h1>
 <h1 align="left">Hi 👋, I'm Abdur Rahim</h1>
-<h5 align="left">I built this plugin to stream live radio and musics. It's built with javascript and jquery.Now you can stream your radio with my plugin/player. It's 100% responsive and cross browser copatibality. It will collect meta-data from radio station such as title,images,artist etc. It comes with 3 skin or UI such as large,small and fixed</h5>
+<h5 align="left">I built this plugin to stream live radio and musics. It's built with javascript and jquery.Now you can stream your radio with my plugin/player. It's 100% responsive and cross browser copatibality. It will collect meta-data from radio station such as title,images,artist etc. It comes with 3 skin or UI such as large,small and fixed, also it has 6 type of audio visualizar</h5>
 
-<p>It supported all kind of audio format with HTML5, mpeg,mpd,aac,ogg,hls etc.So don't worry about your streaming.</p>
+<p>It supported all kind of audio format with HTML5, mpeg,mpd,aac,ogg,hls etc.So don't worry about your streaming. You can play your shoutcast, icecast, radionomi, radiojar, radioco, zenofm and etc</p>
 <img alt="Coding" width="100%" src="https://cdn.abdursoft.com/assets/radio/large.png">
 
 <h4>You can use this plugin very easily. It's setup is so much easy. If your website built without wordpress you can use jquery Plugin, if your website built with wordpress so don't be worry I also have wordpress plugin. You can easily create your shortcode form wordpress dashboard for streaming.</h4>
