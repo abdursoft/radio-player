@@ -13,8 +13,7 @@
 
 <h2>I'm putting the plugin configuration for javascript plugin</h2>
 
-``
-<script>
+``<script>
         $("#myPlayer").prRadio({
           src: "https://ais-edge106-live365-dal02.cdnstream.com/a06375",
           stream: "radio",
@@ -49,5 +48,4 @@
         function getRandom(){
            return Math.floor(Math.random() * 5);
         }
-      </script>
-``
+    </script>``
