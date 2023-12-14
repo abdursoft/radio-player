@@ -44,7 +44,6 @@
           fontColor: "#fff", //change with color code or name
           hoverColor: "red", //change with color code or name
         });
-
         function getRandom(){
            return Math.floor(Math.random() * 5);
         }
