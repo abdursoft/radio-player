@@ -1,7 +1,7 @@
 <img src="https://cdn.abdursoft.com/assets/radio/small.png" alt="abdursoft" />
 <h1 align="center">Premium Radio Player</h1>
 <h1 align="left">Hi 👋, I'm Abdur Rahim</h1>
-<h3 align="left">I built this plugin to stream live radio and musics. It's built with javascript and jquery.Now you can stream your radio with my plugin/player. It's 100% responsive and cross browser copatibality. It will collect meta-data from radio station such as title,images,artist etc. It comes with 3 skin or UI such as large,small and fixed</h3>
+<h5 align="left">I built this plugin to stream live radio and musics. It's built with javascript and jquery.Now you can stream your radio with my plugin/player. It's 100% responsive and cross browser copatibality. It will collect meta-data from radio station such as title,images,artist etc. It comes with 3 skin or UI such as large,small and fixed</h5>
 
 <p>It supported all kind of audio format with HTML5, mpeg,mpd,aac,ogg,hls etc.So don't worry about your streaming.</p>
 <img alt="Coding" width="100%" src="https://cdn.abdursoft.com/assets/radio/large.png">
@@ -13,7 +13,8 @@
 
 <h2>I'm putting the plugin configuration for javascript plugin</h2>
 
-``<script>
+````
+<script>
         $("#myPlayer").prRadio({
           src: "https://ais-edge106-live365-dal02.cdnstream.com/a06375",
           stream: "radio",
@@ -47,4 +48,6 @@
         function getRandom(){
            return Math.floor(Math.random() * 5);
         }
-    </script>``
+    </script>
+````
+<h3>[NOTE]: Now you can run this plugin on your localhost. If you use it for your live server you need an API key for the player. To get an API key contact with https://abdursoft.com or purchase the plugin from https://premium.abdursoft.com/pricing</h3>
