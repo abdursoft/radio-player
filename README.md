@@ -6,16 +6,16 @@
 <p>It supported all kind of audio format with HTML5, mpeg,mpd,aac,ogg,hls etc.So don't worry about your streaming. You can play your shoutcast, icecast, radionomi, radiojar, radioco, zenofm and etc</p>
 <img alt="radio player abdursoft" width="100%" src="https://cdn.abdursoft.com/assets/radio/large.png">
 
-<h4>You can use this plugin very easily. It's setup is so much easy. If your website built without wordpress you can use jquery Plugin, if your website built with wordpress so don't be worry I also have wordpress plugin. You can easily create your shortcode form wordpress dashboard for streaming.</h4>
+<h4>You can use this plugin very easily. It's setup is so much easy. If your website built without wordpress you can use jquery Plugin, if your website built with wordpress so don't be worry we also have a wordpress plugin. You can easily create your shortcode form wordpress dashboard for streaming.</h4>
 
-- 📻 Visit the radio site to see a demo [premium-radio-player](https://premium.abdursoft.com) 
-- 📻 To test the radio visit this site [premium-radio-test](https://premium.abdursoft.com/radio)
+- 📻 Visit the radio site to see a demo [abs-radio-player](https://live-radio.top) 
+- 📻 To test the radio visit this site [abs-radio-test](https://live-radio.top/radio)
 
 <h2>I'm putting the plugin configuration for javascript plugin</h2>
 
 ````
 <script>
-        $("#myPlayer").prRadio({
+        $("#myPlayer").absRadio({
           src: "https://ais-edge106-live365-dal02.cdnstream.com/a06375",
           stream: "radio",
           autoplay: true,
@@ -25,21 +25,12 @@
           background: "#000", //backgorund opacity color for large and background for small and fixed player
           logo: "https://premium.abdursoft.com/public/resource/images/clasic_rock.png",
           station: "Clasic Rock Florida",
-          loop: 0,
           layout: "large", //small,large,fixed
           width: "100", //with percent
           height: "100", //with px
           borderRadius: 19,
           visual: getRandom(), //visualizer 0-5
           opacity: 0.3, //backgroud opacity
-          shoutCastId: "",
-          radioNomyID: "",
-          radioNomyApiKEY: "",
-          radioJarID: "",
-          radioCoID: "",
-          itunesToken: "1000lIPN",
-          metaTechnic: "stream-icy-meta",
-          ownMetaURL: "",
           corsproxy: "",
           type: "shoutcast2",
           fontColor: "#fff", //change with color code or name
@@ -50,4 +41,4 @@
         }
     </script>
 ````
-<h5>[NOTE]: Now you can run this plugin on your localhost. If you want to use it for your live server you need an API key for the player. To get an API key contact with https://abdursoft.com or purchase the plugin from https://premium.abdursoft.com/pricing</h5>
+<h5>[NOTE]: Now you can run this plugin on your localhost. If you want to use it for your live server you need an API key for the player. To get an API key contact with https://abdursoft.com or purchase the plugin from https://live-radio.top/pricing</h5>
