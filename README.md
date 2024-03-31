@@ -1,5 +1,5 @@
 <img src="https://cdn.abdursoft.com/assets/radio/small.png" alt="abdursoft" />
-<h1 align="center">Premium Radio Player</h1>
+<h1 align="center">ABS Radio Player</h1>
 <h1 align="left">Hi 👋, I'm Abdur Rahim</h1>
 <h5 align="left">I built this plugin to stream live radio and musics. It's built with javascript and jquery.Now you can stream your radio with my plugin/player. It's 100% responsive and cross browser copatibality. It will collect meta-data from radio station such as title,images,artist etc. It comes with 3 skin or UI such as large,small and fixed, also it has 6 type of audio visualizar</h5>
 
