@@ -41,4 +41,4 @@
         }
     </script>
 ````
-<h5>[NOTE]: Now you can run this plugin on your localhost. If you want to use it for your live server you need an API key for the player. To get an API key contact with https://abdursoft.com or purchase the plugin from https://live-radio.top/pricing</h5>
+<h5>[NOTE]: Now you can run this plugin on your localhost. If you want to use it for your live server you need an API key for the player. To get an API key contact with https://abdursoft.com or purchase the plugin from https://live-radio.top/download</h5>
